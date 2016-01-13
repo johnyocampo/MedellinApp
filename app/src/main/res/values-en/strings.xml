@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">MedellinApp</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_position">Actual Position</string>
+    <string name="title_versitio">View Site</string>
+
+    <string name="itemcine">Cinemas</string>
+    <string name="itemteatro">Theaters</string>
+    <string name="itemrestaurantes">Restaurants</string>
+    <string name="itemrumba">Partys</string>
+    <string name="itemSitios">Tourist Sites</string>
+
+    <string name="Tcine_puertanorte">Puerta del norte cinema(cinecolombia)</string>
+    <string name="Tcinemark">El tesosoro cinema(cinemark)</string>
+    <string name="TroyalFilms">Jumbo cinema(Royalfilms)</string>
+
+    <string name="Taguila_descalza">Aguila Descalza theater</string>
+    <string name="Tpablo_tobon">Pablo Tobón Uribe theater</string>
+    <string name="Tteatrico">El Teatrico theaters</string>
+
+    <string name="TBistro">360 Bistró</string>
+    <string name="Tcafe_colombo">Colombo Credenza</string>
+    <string name="TThe_Grill_Station">The Grill Station</string>
+
+    <string name="TDisco_babylon">La Disco Babylon</string>
+    <string name="Tpalmahía">Palmahía</string>
+    <string name="Tpub_rock">Pub rock</string>
+
+    <string name="Tbasilica">Nuestra Señora de la Candelaria church</string>
+    <string name="Tcasa_barrientos">Barrientos house</string>
+    <string name="Tpantalla_de_agua">waterwall</string>
+
+    <string name="Tinferior1">La Disco Babylon</string>
+    <string name="Tinferior2">Palmahía</string>
+    <string name="Tinferior3">Pub rock</string>
+
+
+
+
+    <string name="Dcine_puertanorte">Excellent theaters, with very affordable prices and very close to a subway station. To have a good time with your family, partner or friends.
+Address: North Gate Shopping Center (Success Bello - Niquía station)
+Phone: +57 (4) 444 2244
+Rooms: 4</string>
+    <string name="Dcinemark">Currently operating in Colombia Cinemark 29 theaters with 151 screens in the country and continues to grow, in May 2013 two new complexes were opened in Bogota with 4 screens and in Bucaramanga with 6 screens; in July in the city of Florence with 4 screens and Soledad 7 screens; in October in Bogotá with 4 screens; in the month of December in the city of Monteria 5 screens. In 2014 in the month of March in the city of Yopal with 4 screens and 4 screen Palmira; in the month of November in the city of Ipiales with 4 screens. In April 2015 in Cali with 6 screens.
+DC The treasure
+Transversal Superior Cra 25 A No. 1 A -. Southern 45
+Reservations: 321 September 74</string>
+    <string name="DroyalFilms">To have a good time with family, couple or between friends.
+Medellin, Antioquia
+Address: Cra. 65 #92C-85,Medellín, Antioquia
+Phone: +57 (4) 605 1587
+Rooms: 6)</string>
+
+    <string name="Daguila_descalza">Barefoot Eagle headquarters in the traditional neighborhood of Medellin Prado is a beautiful mansion, for its architectural value and ongoing programming has become urban, cultural and tourist reference must for residents and visitors to the city. There Theater Prado Museum, a building has terraces, halls and galleries where art activities, academic and business meetings, seminars, audiovisual projections are made, among other works.
+The mansion conserves beautiful ceilings decorated in plaster and gold leaf, the generous spaces of time and ceilings and wood baseboards. In 1919 he won the competition of the City Council the most beautiful facade and in 1991 is declared of architectural, cultural and urban interest. In 1925 he served as location for the film Under the Antiochian sky, there rehearsing the Symphony Orchestra of Antioquia in its infancy and important personalities from the world of opera stayed, zarzuela and theater, visiting Medellin in the first decades of the twentieth century .
+The theater is located at Carrera 45 A No 59-01 on the corner of Cuba with Chile. Prado Centro neighborhood. Telephone (57 4) 2844211.</string>
+    <string name="Dpablo_tobon">The Teatro Pablo Tobon Foundation was established by Decree No. 487 of October 13, 1952, as an institution of social and cultural nature, in order to provide a modern theater Medellin notch, for the presentation of shows artistic, dramatic, musical, literary and scientific events, through which the cultural advancement of Antioquia is encouraged. Carrera 40 No. 51-24
+57 (4) 239 75 00
+</string>
+    <string name="Dteatrico">In Medellin Teatrico we live art and entertainment as an intimate and uncomplicated experience. We are cheerful, curious and sensitive to any expression and artistic creation.
+
+We like people laughing, vibrating, who lets his emotions surprise and surrender to the power of a gesture, a word, a sound, a song. People who know unplug your everyday stress to live in mode spirit.
+Circular cross-39B No. 2-46
+57 (4) 411 88 78
+</string>
+
+    <string name="DBistro">360 Bistro is a restaurant inspired bistro in Paris, Where wine and good times are the Protagonists.
+Since you enter you embark on an experience of flavors That take you travel the world, Italy, France, the Mediterranean, Peru, the best of the culinary cultures are on our menu.
+Carrera 43A No. 1-50 Local 360 // 57 (4) 326 21 30 // International Cuisine
+</string>
+    <string name="Dcafe_colombo">Café Colombo Credenza is a bistro cafe located in the center of Medellin, on the tenth floor of the Centro Colombo Americano. Has inspired a letter from the flavors of world cuisine.
+Carrera 45 No. 53-24 Piso 10 // 57 (4) 513 44 44 Ext. 169 // Gourmet Food</string>
+    <string name="DThe_Grill_Station">Best Gourmet Burgers. Experience a journey through the world Grill, every Burger is a new experience. Ideal for groups, ideal for children, Take, waiter service and tables outside.
+Circular 76 No. 73B-17 // 57 (4) 412 80 21 // Gourmet Burgers
+</string>
+
+    <string name="DDisco_babylon">The Babylon drive is one of the most popular clubs in the area El Poblado Medellin. Famous for its Ladies Night on Thursdays, and now located near the Parque Lleras, this place is one of what insurance will recommend when prompted for a disk to visit in the city. The atmosphere is more like "a few drinks and enjoy the party" without much elegance, but while you what to expect of the place, certainly going to have a good time.
+- Open: 9:30 p.m. to 4a.m. but wait until 11 pm at the last moment)
+- Address: Carrera 41 # 9-22, Parque Lleras Medellin
+- Phone: (1) 381 8169
+</string>
+    <string name="Dpalmahía">RUMBA lives differently until dawn, music crossover, major events, and much more. If you want a different and crazy night enjoy this great club.
+Cra 42 # 85B-121 South Highway 57.
+</string>
+    <string name="Dpub_rock">Excellent bar to remember the great classics of rock. If you like rock, Here you find an eighties atmosphere and a fairly wide space where you can enjoy also enjoy good live music.
+AV 33 # 78-121, Medellin
+</string>
+
+    <string name="Dbasilica">Its history and architecture led to its declaration as a National Monument. At the dawn of Medellin, the Basilica was the main church; It came even to be the Cathedral. In the historic center of the city, in front of her, is the also traditional Berrio Park, where the main metropolitan train station is located. The current appearance of the church of La Candelaria dates from 1767, but in the same place were other churches since 1649. Built in colonial times, has a neoclassical architecture and religious art exhibits, as the canvas of the Candelaria Virgende belonging to more typical colonial style
+     Carrera 50 No. 50-72
+57 (4) 231 33 32
+</string>
+    <string name="Dcasa_barrientos">It is the only building from the late nineteenth century that still stands on Avenida La Playa, in the city center. Residence of the family recognized that Medellin Barrientos old, is now owned by the Municipality of Medellin. It underwent restoration in 2007 and went on to become a librarian space intended for children of the city, managed by Comfenalco, where it has an extensive collection of children s books, baby books and information for civic education. It has multiple services such as lending for house reading materials, exhibitions, cultural and academic events for all ages and promotional activities and animation are done reading. This house, declared architectural heritage of the city of Medellin´s urban reference.
+Hours: Monday through Friday, from 8:00 am to 8:00 pm Saturday, 9:00 a.m. to 6:00 pm Sundays and holidays from 11:00 am to 5:00 pm
+Calle 51 No. 45-57 Avenida La Playa
+57 (4) 575 22 50
+</string>
+    <string name="Dpantalla_de_agua">It is located at Bicentennial Park, just behind the Teatro Pablo Tobon Uribe. It is a structure of 5 meters high and 16 along the falling 7,200 fine threads of water that form a screen on which various audiovisual productions such as films and music videos are presented by a laser projector that produces 18 million tones</string>
+
+
+
+
+
+</resources>

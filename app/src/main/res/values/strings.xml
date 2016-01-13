@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">MedellinApp</string>
+    <string name="Tboton">ver ubicación en el mapa</string>
+
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_position">Posición Actual</string>
+    <string name="title_versitio">Ver Sitio</string>
+
+
+    <string name="itemcine">Cines</string>
+    <string name="itemteatro">Teatros</string>
+    <string name="itemrestaurantes">Restaurantes</string>
+    <string name="itemrumba">Rumba</string>
+    <string name="itemSitios">Sitios turísiticos</string>
+
+    <string name="Tcine_puertanorte">Puerta del norte(cinecolombia)</string>
+    <string name="Tcinemark">El tesosoro(cinemark)</string>
+    <string name="TroyalFilms">jumbo (Royalfilms)</string>
+
+    <string name="Taguila_descalza">Teatro Aguila Descalza</string>
+    <string name="Tpablo_tobon">Teatro Pablo Tobón Uribe</string>
+    <string name="Tteatrico">Teatro El Teatrico</string>
+
+    <string name="TBistro">360 Bistró</string>
+    <string name="Tcafe_colombo">Café Colombo Credenza</string>
+    <string name="TThe_Grill_Station">The Grill Station</string>
+
+    <string name="TDisco_babylon">La Disco Babylon</string>
+    <string name="Tpalmahía">Palmahía</string>
+    <string name="Tpub_rock">Pub rock</string>
+
+    <string name="Tbasilica">Basílica Nuestra Señora de la Candelaria</string>
+    <string name="Tcasa_barrientos">Casa Barrientos Casa de la Lectura Infantil</string>
+    <string name="Tpantalla_de_agua">Pantalla de agua</string>
+
+    <string name="Tinferior1">La Disco Babylon</string>
+    <string name="Tinferior2">Palmahía</string>
+    <string name="Tinferior3">Pub rock</string>
+
+
+
+
+    <string name="Dcine_puertanorte">Excelentes salas de cine, con precios muy cómodos y muy cerca a una estación del metro. Para pasar un buen rato en familia, en pareja o entre amigos.
+Dirección : Centro Comercial Puerta del Norte (Éxito de Bello - Estación Niquía)
+Teléfono : +57 (4) 444 2244
+Salas : 4</string>
+    <string name="Dcinemark">En Cinemark Colombia operan actualmente 29 teatros con 151 salas en el territorio nacional y continúa creciendo, en mayo de 2013 se inauguraron dos nuevos complejos en la ciudad de Bogotá con 4 pantallas y en Bucaramanga con 6 pantallas; en el mes de Julio en la ciudad de Florencia con 4 pantallas y en Soledad con 7 pantallas; en el mes de Octubre en la ciudad de Bogotá con 4 pantallas; en el mes de Diciembre en la ciudad de Montería con 5 pantallas. En 2014 en el mes de Marzo en la ciudad de Yopal con 4 Pantallas y en Palmira con 4 pantallas; en el mes de Noviembre en la ciudad de Ipiales con 4 pantallas. En abril de 2015 en Cali con 6 pantallas.
+C.C. El Tesoro
+Transversal Superior Cra. 25 A No. 1 A - Sur 45
+Reservas: 321 09 74</string>
+    <string name="DroyalFilms">Para pasar un excelente rato en familia, en pareja o entre amigos.
+Medellín - Antioquia
+Dirección : Cra. 65 #92C-85,Medellín, Antioquia
+Teléfono : +57 (4) 605 1587
+Salas : 6)</string>
+
+    <string name="Daguila_descalza">La sede del Águila Descalza en el tradicional barrio Prado de Medellín, es una bella mansión, que por su valor arquitectónico y programación permanente, se ha convertido en referente urbano, cultural y turístico de obligatoria visita para habitantes y visitantes de la ciudad. Allí funciona el Museo Teatro Prado, edificación que cuenta con terrazas, salones y galerías donde se realizan actividades artísticas, encuentros académicos y empresariales, seminarios, proyecciones audiovisuales, entre otras.
+La mansión conserva los hermosos techos decorados en yeso y laminilla de oro, los generosos espacios de época y los techos y zócalos en madera. En 1919 gana el concurso del Concejo de la ciudad a la fachada más bella y en 1991 es declarada bien de interés arquitectónico, cultural y urbanístico. En 1925 sirvió como locación a la película Bajo el cielo antioqueño, allí ensayaba la orquesta Sinfónica de Antioquia en sus comienzos y se alojaron importantes personalidades del mundo de la ópera, la zarzuela y el teatro, que visitaban Medellín en las primeras décadas del siglo XX.
+El teatro está ubicado en la Carrera 45 D No 59-01 en el cruce de Cuba con Chile. Barrio Prado Centro. Teléfono (57 4) 2844211.
+</string>
+    <string name="Dpablo_tobon">La Fundación Teatro Pablo Tobón nació mediante el Decreto No. 487 del 13 de octubre de 1952, como una institución de carácter social y cultural, con la finalidad de dotar a Medellín de un teatro moderno de primera categoría, destinado a la presentación de espectáculos y actos artísticos, dramáticos, musicales, literarios y científicos, a través de los cuales se fomentara el adelanto cultural de los antioqueños.
+Carrera 40 No. 51-24
+57(4) 239 75 00
+</string>
+    <string name="Dteatrico">En El Teatrico de Medellín vivimos el arte y el entretenimiento como una experiencia íntima y descomplicada. Somos alegres, curiosos y sensibles a toda expresión y creación artística.
+
+Nos gusta la gente que ríe, que vibra, que se deja sorprender y rinde sus emociones ante el poder de un gesto, de una palabra, de un sonido, de un canto. La gente que sabe desenchufar su estrés cotidiano para vivir en ‘modo’ espíritu.
+Transversal 39B No. Circular 2-46
+57(4) 411 88 78
+</string>
+
+    <string name="DBistro">360 Bistró es un restaurante inspirado en los bistro de París, donde el vino y los buenos momentos son los protagonistas.
+Desde que entras te embarcas en una experiencia de sabores que te llevan de viaje por el mundo, Italia, Francia, el mediterráneo, Perú, lo mejor de las culturas gastronómicas están en nuestro menú.
+Carrera 43A No. 1-50 Local 360 // 57(4) 326 21 30 // Cocina Internacional
+</string>
+    <string name="Dcafe_colombo">Café Colombo Credenza es un café bistró ubicado en el centro de Medellín, en el décimo piso del Centro Colombo Americano. Tiene una carta de platos inspirados en los mejores sabores del mundo.
+Carrera 45 No. 53-24 Piso 10 // 57(4) 513 44 44 Ext. 169 // Comida Gourmet
+</string>
+    <string name="DThe_Grill_Station">Las mejores Hamburguesas Gourmet. Vive un viaje a tarves del mundo Grill, cada Burger es una nueva experiencia. Ideal para grupos, Ideal para niños, Para llevar, Servicio de camarero y Mesas en el exterior.
+Circular 76 No. 73B-17 // 57(4) 412 80 21 // Hamburguesas Gourmet
+</string>
+
+    <string name="DDisco_babylon">La disco Babylon es uno de los clubs más populares de la zona El Poblado deMedellín. Famoso por su Ladies Night de los jueves, y ahora ubicado muy cerca del Parque Lleras, este lugar es uno de lo que de seguro le recomendarán cuando pregunte por una disco que debe visitar en la ciudad. El ambiente es más del tipo "toma unos tragos y vive la fiesta" sin mucha elegancia, pero mientras usted qué esperar del lugar, de seguro que va a pasar un buen rato.
+- Abierto: de 9:30p.m. a 4a.m. pero espere hasta las 11p.m. a último momento)
+- Dirección: Carrera 41 #9-22, Parque Lleras Medellín
+- Teléfono: (1) 381 8169
+</string>
+    <string name="Dpalmahía">Vive la RUMBA de una forma Diferente hasta el AMANECER, música crossover, grandes eventos, y muchísimo más. Si quieres una noche diferente y loca disfruta de esta gran discoteca.
+Cra 42 # 85B-121 Autopista Sur, 57.
+</string>
+    <string name="Dpub_rock">Excelente bar para recordar los grandes clásicos del rock. Si te gusta el rock, aquí encontrás un ambiente ochentero y un espacio bastante amplio en el cual disfrutarás podrás disfrutar también de buena música en vivo.
+AV 33 #78-121, Medellín
+</string>
+
+    <string name="Dbasilica">Su historia y arquitectura motivaron su declaración como Monumento Nacional. En los albores de Medellín, la Basílica fue su principal iglesia; llegó, incluso, a ser la Catedral. En pleno centro histórico de la ciudad, frente a ella, se encuentra el también tradicional Parque Berrío, donde se localiza la principal estación del Tren Metropolitano. El aspecto actual de la iglesia de La Candelaria data de 1767, pero en el mismo lugar hubo otras iglesias desde 1649. Construida en tiempos de la Colonia, posee una arquitectura neoclásica y exhibe obras de arte religioso, como el lienzo de la Virgende la Candelaria, perteneciente al más típico estilo colonial
+    Carrera 50 No. 50-72
+57(4) 231 33 32
+</string>
+    <string name="Dcasa_barrientos">Es la única construcción de finales del siglo XIX que aún sigue en pie en la avenida La Playa, en el centro de la ciudad. Residencia de la reconocida familia Barrientos de esa Medellín de antaño, es hoy propiedad del Municipio de Medellín. Fue objeto de restauración en el 2007 y pasó a constituirse en un espacio bibliotecario dirigido a los niños y niñas de la ciudad, administrada por Comfenalco, donde se cuenta con una amplia colección de literatura infantil, libros para bebés e información para la formación ciudadana. Se cuenta con múltiples servicios como el préstamo de materiales de lectura para casa, exposiciones, eventos culturales y académicos para todos los públicos y se realizan actividades de promoción y animación de lectura. Esta casa, declarada Patrimonio Arquitectónico de la ciudad, es referente urbanístico de Medellín.
+Horario: Lunes a viernes, de 8:00 a.m. a 8:00 p.m. Sábados, 9:00 a.m. a 6:00 p.m. Domingos y festivos de 11:00 a.m. a 5:00 p.m.
+Calle 51 No. 45-57 Avenida La Playa
+57(4) 575 22 50
+</string>
+    <string name="Dpantalla_de_agua">Se ubica en el Parque Bicentenario, justo detrás del Teatro Pablo Tobón Uribe. Es una estructura de 5 metros de alto por 16 de largo de la que caen 7.200 hilos finos de agua que forman una pantalla sobre la que se presentan diversas producciones audiovisuales, como películas de cine y videos musicales, gracias a un proyector láser que produce 18 millones de tonalidades</string>
+    <string name="title_activity_puerta_norte_">Map</string>
+    <string name="title_activity_eltesoro">Map</string>
+    <string name="title_activity_jumbo_la_65">Map</string>
+
+    <!--<string name="Tinferior1">La Disco Babylon</string>-->
+    <!--<string name="Tinferior2">Palmahía</string>-->
+    <!--<string name="Tinferior3">Pub rock</string>-->
+
+
+</resources>
