@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">MedellinApp</string>
+    <string name="Tboton">see location on map</string>
+
     <string name="title_item_detail">Item Detail</string>
     <string name="title_position">Actual Position</string>
     <string name="title_versitio">View Site</string>
@@ -98,7 +100,9 @@ Calle 51 No. 45-57 Avenida La Playa
     <string name="Dpantalla_de_agua">It is located at Bicentennial Park, just behind the Teatro Pablo Tobon Uribe. It is a structure of 5 meters high and 16 along the falling 7,200 fine threads of water that form a screen on which various audiovisual productions such as films and music videos are presented by a laser projector that produces 18 million tones</string>
 
 
-
+    <string name="title_activity_puerta_norte_">Map</string>
+    <string name="title_activity_eltesoro">Map</string>
+    <string name="title_activity_jumbo_la_65">Map</string>
 
 
 </resources>
